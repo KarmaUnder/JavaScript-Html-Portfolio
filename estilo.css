@@ -32,7 +32,7 @@ html {
 }
 #inicio .contenido header .contenido-header h1{
 text-align: center;
-color: #ff5080;
+color: #ff6790;
 }
 #inicio .contenido header .contenido-header nav ul{
     list-style: none;
@@ -47,7 +47,7 @@ color: #ff5080;
     transition: .5s;
 }
 #inicio .contenido header .contenido-header nav ul a:hover{
-    color:#ff5080
+    color:#ff6790
 }
 #inicio .contenido header .contenido-header .redes a{
     text-decoration: none;
@@ -57,10 +57,10 @@ color: #ff5080;
     transition: .5s;
 }
 #inicio .contenido header .contenido-header .redes a:hover{
-    color: #ff5080;
+    color: #ff6790;
 }
 #inicio .contenido header .contenido-header .seleccionado{
-    color: #ff5080;
+    color: #ff6790;
 }
 
 #inicio .contenido .presentacion{
@@ -85,8 +85,8 @@ color: #ff5080;
     text-align: center;
 }
 #inicio .contenido .presentacion h2 span{
-    font-size: 25px;
-    color: #ff5080;
+    font-size: 45px;
+    color: #ff6790;
 }
 #inicio .contenido .presentacion .descripcion{
     max-width: 700px;
@@ -107,7 +107,7 @@ color: #ff5080;
     transition: .5s;
 }
 #inicio .contenido .presentacion a:hover{
-    background-color: #ff5080;
+    background-color: #ff6790;
 }
 #icono-nav{
     color: #fff;
@@ -150,7 +150,7 @@ color: #ff5080;
     letter-spacing: 2px;
 }
 #sobremi .sobremi h2 span{
-    color: #ff5080;
+    color: #ff6790;
 }
 #sobremi .sobremi h3{
     font-size: 18px;
@@ -177,7 +177,7 @@ color: #ff5080;
     transition: .5s;
 }
 #sobremi .sobremi a:hover{
-    background-color: #ff5080;
+    background-color: #ff6790;
     color: #fff;
 }
 /*SERVICIOS */
@@ -211,7 +211,7 @@ color: #ff5080;
 }
 #servicios .fila .servicio:hover{
     box-shadow: 5px 5px 10px #565656, -5px -5x 10px #8a8a8a;
-    background-color: #ff5080;
+    background-color: #ff6790;
 }
 #servicios .fila .servicio h4{
     font-size: 22px;
@@ -340,6 +340,7 @@ color: #ff5080;
     margin: 0 10px;
     position: relative;
     overflow: hidden;
+    border-radius: 25px;
 }
 #portfolio .fila .proyecto img{
     width: 100%;
@@ -355,7 +356,7 @@ color: #ff5080;
     position: absolute;
     left: 0;
     background-color: rgba(0,0,0,.8);
-    color: #ff5080;
+    color: #ff6790;
     width: 100%;
     padding: 10px;
     opacity: 0;
@@ -414,7 +415,7 @@ color: #ff5080;
     font-weight: bold;
 }
 #contacto .btn-enviar:hover{
-    background-color: #ff5080;
+    background-color: #ff6790;
     color: #fff;
 }
 footer{
